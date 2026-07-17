@@ -179,16 +179,12 @@ Use the skill "deepresearch".
 
 ### 4.2 操作
 
-1. 检查研究计划，选择 **批准，开始研究**。
-
-![批准 Deep Research 研究计划](./images/步骤2.jpeg)
-
-2. Quick 开始执行多个研究任务。等待右侧 Task list 中的任务完成。
-3. 如果出现 **Writing file** 授权，选择 **This chat**。
+1. Quick 开始执行多个研究任务。等待右侧 Task list 中的任务完成。
+2. 如果出现 **Writing file** 授权，选择 **This chat** 或 **Always allow**。
 
 ![允许当前 Chat 写入文件](./images/步骤4.jpeg)
 
-4. 等待 Quick 汇总研究结果并生成 Markdown 报告。
+3. 等待 Quick 汇总研究结果并生成 Markdown 报告。
 
 ![Deep Research 生成研究报告](./images/步骤6.jpeg)
 
