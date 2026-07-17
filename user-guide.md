@@ -304,7 +304,11 @@ Use the skill "execute".
 1. Execute 完成后，在 Session tabs 中检查生成的 `SKILL.md`。
 2. Quick 询问下一步时，选择 **保存到技能库**。
 
-如果 Quick 没有主动询问，可在当前 Chat 中直接发送 `保存到技能库`。
+如果 Quick 没有主动询问，可在当前 Chat 中输入：
+
+```text
+使用 save_skill 工具把最终生成的 Skill 保存到我的技能库中。
+```
 
 ![保存生成的业务 Skill](./images/步骤12.jpeg)
 
