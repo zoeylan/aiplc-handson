@@ -1,0 +1,5 @@
+vendor_id,vendor_name,total_price_cny,start_date,delivery_cities,bilingual_materials,enterprise_cases_500plus,data_storage,subcontracting,licenses_and_compliance,payment_terms,instructor_rating_5,customization,notes
+V001,博学企业培训,568000,2026-09-01,"北京;上海;深圳",yes,5,China,"No core subcontracting",complete,"30% start;40% midterm;30% acceptance",4.6,high,"报价包含平台和差旅；提供三地项目经理"
+V002,启航人才发展,498000,2026-09-10,"北京;上海;深圳",yes,2,China,"Requires subcontracting for Shenzhen",complete,"50% start;50% before final delivery",4.4,medium,"价格最低；仅提供两个500人以上案例；深圳讲师由合作方交付"
+V003,卓越学习科技,592000,2026-09-20,"北京;上海;深圳",yes,8,China,"No subcontracting",complete,"20% start;50% midterm;30% acceptance",4.8,high,"案例和课程质量较强；启动日期晚于要求"
+V004,GlobalLearn Asia,545000,2026-09-05,"北京;上海;深圳",yes,6,Singapore,"No subcontracting",pending,"40% start;60% acceptance",4.7,high,"数据存储在新加坡；中国营业资质仍待提供"
