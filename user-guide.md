@@ -63,11 +63,11 @@
 
 ### 1.2 下载 Hands-on 仓库
 
-1. 使用已获授权的 GitHub 账号打开：
+1. 打开 Hands-on GitHub 仓库：
 
    https://github.com/zoeylan/aiplc-handson
 
-2. 选择 **Code → Download ZIP**。
+2. 选择 **Code → Download ZIP** 下载仓库。
 3. 解压下载的文件夹。后续操作使用其中的 `hands-on-data/` 和 `skills/`。
 
 ### 1.3 准备实验资料
