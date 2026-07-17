@@ -1,6 +1,5 @@
 # AI-PLC with Amazon Quick Hands-on User Guide
 
-> **版本**：V0.2
 > **工具**：Amazon Quick Desktop
 
 ---
