@@ -77,16 +77,17 @@
 
 ```text
 hands-on-data/
-├── training-procurement-requirements.md
-├── supplier-evaluation-policy.md
-└── supplier-quotes.csv
+└── training/
+    ├── training-procurement-requirements.md
+    ├── training-evaluation-policy.md
+    └── training-supplier-quotes.csv
 ```
 
 | 文件 | 内容 |
 |---|---|
 | `training-procurement-requirements.md` | 预算、时间、培训范围和强制条件 |
-| `supplier-evaluation-policy.md` | 门槛规则、评分权重和审批边界 |
-| `supplier-quotes.csv` | 四家供应商的报价和证明信息 |
+| `training-evaluation-policy.md` | 门槛规则、评分权重和审批边界 |
+| `training-supplier-quotes.csv` | 多家供应商的报价和证明信息 |
 
 ### 1.4 准备通用 Skills
 
@@ -203,8 +204,8 @@ Use the skill "deepresearch".
 保持在同一个 Chat，上传：
 
 ```text
-training-procurement-requirements.md
-supplier-evaluation-policy.md
+hands-on-data/training/training-procurement-requirements.md
+hands-on-data/training/training-evaluation-policy.md
 ```
 
 点击聊天框左下角的 **+ → Upload files**，选择这两个文件。

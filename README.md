@@ -8,7 +8,7 @@
 
 | 类型 | 场景 | 入口 | 测试数据 |
 |---|---|---|---|
-| 完整实操 | 年度员工培训供应商初筛 | [Step-by-step 指南](./user-guide.md) | [供应商报价](./hands-on-data/supplier-quotes.csv) |
+| 完整实操 | 年度员工培训供应商初筛 | [Step-by-step 指南](./user-guide.md) | [供应商报价](./hands-on-data/training/training-supplier-quotes.csv) |
 | 扩展场景 | 企业客户成功经理候选人初筛 | [场景说明](./scenarios/recruitment.md) | [候选人资料](./hands-on-data/recruitment/candidate-profiles.csv) |
 | 扩展场景 | SaaS 采购初筛 | [场景说明](./scenarios/saas-procurement.md) | [厂商方案](./hands-on-data/saas-procurement/saas-proposals.csv) |
 | 扩展场景 | 渠道合作伙伴初筛 | [场景说明](./scenarios/channel-partner.md) | [合作伙伴资料](./hands-on-data/channel-partner/channel-partner-profiles.csv) |
@@ -50,7 +50,7 @@
 │   ├── channel-partner.md
 │   └── support-triage.md
 ├── hands-on-data/
-│   ├── *.md / *.csv              # Training 实验资料
+│   ├── training/
 │   ├── recruitment/
 │   ├── saas-procurement/
 │   ├── channel-partner/
