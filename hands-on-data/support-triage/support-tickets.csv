@@ -1,0 +1,5 @@
+ticket_id,summary,affected_customers,affected_users,production_blocked,security_indicator,data_loss,human_safety_impact,regulatory_impact,service_scope,workaround,minutes_to_sla_breach,reproducibility,evidence_notes
+T001,"单个管理员无法导出月度报表",1,1,no,no,no,no,no,"report export",yes,180,consistent,"可使用API导出；已提供错误截图"
+T002,"所有客户登录后返回503",120,4800,yes,no,no,no,no,"core service all customers",no,18,consistent,"监控显示所有区域登录失败"
+T003,"客户发现其他租户名称出现在搜索建议中",1,3,no,possible,no,no,no,"tenant search",unknown,42,intermittent,"可能涉及跨租户数据暴露，尚未确认可见字段范围"
+T004,"12家客户批量导入任务持续失败",12,260,yes,no,no,no,no,"bulk import",no,25,consistent,"均返回相同任务队列错误；核心登录和查询正常"

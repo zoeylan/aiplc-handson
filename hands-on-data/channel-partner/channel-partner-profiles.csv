@@ -1,0 +1,5 @@
+partner_id,partner_name,regions,industry_focus,enterprise_customers_verified,presales_delivery_staff,business_license,compliance_declaration,beneficial_owner_disclosed,major_misconduct_record,data_protection_accepted,deal_registration_accepted,anti_bribery_policy_accepted,subagent_plan,competitive_conflict,annual_pipeline_commitment_cny,implementation_projects_2yr,notes
+P001,东域数字科技,"上海;江苏;浙江","制造;零售",8,6,valid,provided,yes,none,yes,yes,yes,"No subagents",none,8000000,12,"提供客户证明和联合业务计划"
+P002,南方企业服务,"广东;福建","零售;专业服务",2,4,valid,provided,yes,none,yes,yes,yes,"Plans to recruit subagents without prior approval",none,12000000,6,"仅有2家可验证中大型客户且计划发展下级代理"
+P003,华联解决方案,"上海;广东","制造;金融",11,9,valid,pending,unknown,none,yes,yes,unknown,"No subagents",none,15000000,20,"合规声明、反商业贿赂政策确认和实际控制人材料待提供"
+P004,智达渠道顾问,"江苏;安徽","制造",5,1,valid,provided,yes,none,yes,yes,yes,"No subagents","Direct competing enterprise software",6000000,3,"售前实施人员不足且代理直接竞争产品"

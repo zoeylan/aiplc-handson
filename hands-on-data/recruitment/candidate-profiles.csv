@@ -1,0 +1,5 @@
+candidate_id,candidate_alias,b2b_software_years,customer_success_years,work_authorization_china,chinese_business,english_business,travel_20pct,start_date,enterprise_customer_scope,renewal_experience,cross_functional_experience,data_analysis_experience,evidence_notes
+C001,Candidate-A,7,4,yes,yes,yes,yes,2026-10-01,"负责30家中大型企业客户","连续两年负责续约和风险管理",high,high,"工作资格和经历均有材料支持"
+C002,Candidate-B,3,3,yes,yes,yes,yes,2026-09-20,"负责12家企业客户","参与续约但不负责最终计划",medium,medium,"B2B企业软件经验为3年"
+C003,Candidate-C,8,5,unknown,yes,yes,yes,2026-10-10,"负责全球重点客户","负责采用、续约和高风险客户",high,high,"未提供中国工作资格证明"
+C004,Candidate-D,6,1,yes,yes,yes,no,2026-10-30,"负责18家企业客户","客户成功经验为1年",high,medium,"不能接受出差且最早入职日晚于要求"
