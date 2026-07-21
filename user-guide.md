@@ -22,9 +22,10 @@
 ### 1.1 安装并登录 Amazon Quick Desktop
 
 1. 从 [Amazon Quick 下载页](https://aws.amazon.com/quick/download/) 下载并安装 Desktop 版本。
+
    （国内下载链接：https://amzn-chn.feishu.cn/drive/folder/NimEfRYqPltk9edER33caQmMnpg ）
 
-2. 打开第一封 Amazon Quick 邀请邮件。记下 `You have been invited to join the "<Quick Account Name>" account` 中双引号内的 **Quick Account Name**，然后点击 **Click to accept invitation**。
+3. 打开第一封 Amazon Quick 邀请邮件。记下 `You have been invited to join the "<Quick Account Name>" account` 中双引号内的 **Quick Account Name**，然后点击 **Click to accept invitation**。
 
 ![接受 Amazon Quick 邀请](./images/邮件1-quick.jpeg)
 
